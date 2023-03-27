@@ -78,6 +78,8 @@ namespace ECommerceApis.Controllers
                     catch (Exception ex)
                     {
                         throw;
+
+
                     }
                 }
             }
